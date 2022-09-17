@@ -1,0 +1,16 @@
+{
+  "name": "curso-node-ejs",
+  "version": "1.0.0",
+  "description": "Projeto criado no módulo Node + EJS da trilha Fundamentar da Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
